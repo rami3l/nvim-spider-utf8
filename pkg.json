@@ -1,0 +1,14 @@
+{
+  "name": "nvim-spider-utf8",
+  "engines": {
+    "nvim": "^0.10.0",
+    "vim": "^9.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rami3l/nvim-spider-utf8"
+  },
+  "dependencies": {
+    "https://github.com/starwing/luautf8": "0.1.7"
+  }
+}

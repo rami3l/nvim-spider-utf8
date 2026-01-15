@@ -13,7 +13,7 @@ Add the following to your `lazy.nvim` config:
 {
   "chrisgrieser/nvim-spider",
   dependencies = {
-    { "rami3l/nvim-spider-utf8", build = "rockspec" },
+    { "rami3l/nvim-spider-utf8", build = "packspec" },
   },
 }
 ```
